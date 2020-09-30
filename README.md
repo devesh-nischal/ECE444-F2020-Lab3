@@ -2,7 +2,7 @@
 Devesh Nischal
 This repo is a clone of: https://github.com/miguelgrinberg/flasky
 
-Activity 1: ![Datetime Display](https://github.com/devesh-nischal/ECE444-F2020-Lab2/blob/master/Lab3_Activity_1_SC.JPG?raw=true)
+Activity 1: ![Datetime Display](https://github.com/devesh-nischal/ECE444-F2020-Lab3/blob/master/Lab3_Activity_1_SC.JPG?raw=true)
 
 Activity 2:  
 ![Initial Page](https://github.com/devesh-nischal/ECE444-F2020-Lab3/blob/master/Lab3_Activity_2_SC_1.JPG?raw=true)  
