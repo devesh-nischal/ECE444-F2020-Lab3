@@ -1,5 +1,5 @@
 # ECE444-F2020-Lab3
-Devesh Nischal
+Devesh Nischal  
 This repo is a clone of: https://github.com/miguelgrinberg/flasky
 
 Activity 1: ![Datetime Display](https://github.com/devesh-nischal/ECE444-F2020-Lab3/blob/master/Lab3_Activity_1_SC.JPG?raw=true)  
