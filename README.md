@@ -51,6 +51,8 @@ There are 3 files associated with Docker in this branch and are all located in t
 3. docker-compose.yml: This files allows the user to  build and run the application using just one command.  
   
   
+  
+  
 The difference between Docker and Virtual Machines:  
 A docker container shared the kernel of the computer it is running on with other containers. It runs natively on Linux and is very lightweight. This makes containers no bigger than normal executable files.  
 A virtual machine on the other hand includes a guest operating system with virtual access to the machine's physical resources. This forces virtual machines to have tremendous amounts of overhead as compared to containers.
